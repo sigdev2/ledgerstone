@@ -19,7 +19,7 @@ You can read [The Change history](./CHANGELOG)
 
 ## Usage
 
-Just copy.
+On Windows - just copy and run ladgerstone.exe. For other platforms, use the build instructions in QtCreator.
 
 ## License
 
