@@ -1,0 +1,17 @@
+ - when rename score - type is added, fix it
+ - float numbers delimiter auto replace quote to dot for Del button on numpad
+ - icons for score type
+ - hide + when 0 balance
+ - minimum size for cells and horizontal scroll (if in result cell size smaller then nfme of score + result, thne show only cell result)
+ - header sizes for long scores names
+ - Score mirror
+ - Debit scores when add transaction
+ - Fix colors for every score type cell and header
+ - Add transaction dialog
+ - Change transaction dialog
+ - Backup
+ - Dropbox/Google drive sync
+ - Init settings, color themes, store windows size and positions, splitter positions, cloud settings
+ - Planning for month and year analytic, and other analytic
+ - Translations labels
+ - Mobile optimization
