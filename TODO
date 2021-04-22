@@ -1,4 +1,5 @@
  - when rename score - type is added, fix it
+ - navigate on table from keyboard arrows
  - float numbers delimiter auto replace quote to dot for Del button on numpad
  - icons for score type
  - hide + when 0 balance
